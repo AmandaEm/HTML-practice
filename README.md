@@ -1,1 +1,1 @@
-hello world
+This repo is the work of Amanda, Belinda, Connor, Rena and Tsehay. We have created a HTML practice that can be found here: https://replit.com/@ConnorReinhard/heyitsconnor#index.html. We have cloned the files up from the replit to this repo. Please enjoy our work!
